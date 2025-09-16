@@ -19,7 +19,7 @@ except ZeroDivisionError:
 
 # ---
 
-# Verificando as condições e imprimindo a mensagem
+# Verificando as condições e imprimindo a mensagens
 if imc > 25:
     print(f"\n{nome}, você está com sobrepeso .")
 elif imc >= 19 and imc <= 24:
